@@ -1,0 +1,184 @@
+{
+  "MONTALTO UFFUGO, CS, Calabria, Italia": {
+    "lat": 39.404795,
+    "lon": 16.15799,
+    "address": "Montalto Uffugo, Cosenza, Calabria, 87046, Italia",
+    "status": "TROVATO_COMUNE",
+    "precisione": "COMUNE"
+  },
+  "Treviglio, BG, Lombardia, Italia": {
+    "lat": 45.5339851,
+    "lon": 9.5972901,
+    "address": "Treviglio, Bergamo, Lombardia, 24047, Italia",
+    "status": "TROVATO_COMUNE",
+    "precisione": "COMUNE"
+  },
+  "Pavia, PV, Lombardia, Italia": {
+    "lat": 45.1860043,
+    "lon": 9.1546375,
+    "address": "Pavia, Lombardia, 27100, Italia",
+    "status": "TROVATO_COMUNE",
+    "precisione": "COMUNE"
+  },
+  "Via Fratelli Rosselli 104, 13900 Biella, BI, Piemonte, Italia": {
+    "lat": 45.5512915,
+    "lon": 8.0502664,
+    "address": "104, Via Fratelli Rosselli, Vernato, Piazzo, Biella, Piemonte, 13900, Italia",
+    "status": "TROVATO",
+    "precisione": "CIVICO"
+  },
+  "Firenze, FI, Toscana, Italia": {
+    "lat": 43.7697955,
+    "lon": 11.2556404,
+    "address": "Firenze, Toscana, Italia",
+    "status": "TROVATO_COMUNE",
+    "precisione": "COMUNE"
+  },
+  "Roma, RM, Lazio, Italia": {
+    "lat": 41.8933203,
+    "lon": 12.4829321,
+    "address": "Roma, Roma Capitale, Lazio, Italia",
+    "status": "TROVATO_COMUNE",
+    "precisione": "COMUNE"
+  },
+  "Napoli, , Campania, Italia": {
+    "lat": 40.8358846,
+    "lon": 14.2487679,
+    "address": "Napoli, Campania, Italia",
+    "status": "TROVATO_COMUNE",
+    "precisione": "COMUNE"
+  },
+  "Perugia, PG, Umbria, Italia": {
+    "lat": 43.1119613,
+    "lon": 12.3890104,
+    "address": "Perugia, Umbria, Italia",
+    "status": "TROVATO_COMUNE",
+    "precisione": "COMUNE"
+  },
+  "ROMA, RM, Lazio, Italia": {
+    "lat": 41.8933203,
+    "lon": 12.4829321,
+    "address": "Roma, Roma Capitale, Lazio, Italia",
+    "status": "TROVATO_COMUNE",
+    "precisione": "COMUNE"
+  },
+  "Roma, RM, LAZIO, Italia": {
+    "lat": 41.8933203,
+    "lon": 12.4829321,
+    "address": "Roma, Roma Capitale, Lazio, Italia",
+    "status": "TROVATO_COMUNE",
+    "precisione": "COMUNE"
+  },
+  "Corso Torino 119, 10040 Rivarolo Canavese, TO, Piemonte, Italia": {
+    "lat": 45.3206788,
+    "lon": 7.7291998,
+    "address": "Corso Torino, Pasquaro, Rivarolo Canavese, Torino, Piemonte, 10086, Italia",
+    "status": "TROVATO",
+    "precisione": "CIVICO"
+  },
+  "Corso Francia 30/B, 10098 Rivoli, TO, Piemonte, Italia": {
+    "lat": 45.0711284,
+    "lon": 7.5341829,
+    "address": "Corso Francia, Cascine Vica, Rivoli, Torino, Piemonte, 10098, Italia",
+    "status": "TROVATO",
+    "precisione": "CIVICO"
+  },
+  "Via Italia 88, 10036 Settimo Torinese, TO, Piemonte, Italia": {
+    "lat": 45.1375942,
+    "lon": 7.7707388,
+    "address": "Via Italia, Settimo Torinese, Torino, Piemonte, 10036, Italia",
+    "status": "TROVATO",
+    "precisione": "CIVICO"
+  },
+  "Brugherio, MI, Lombardia, Italia": {
+    "lat": 45.5635592,
+    "lon": 9.2329314,
+    "address": "Centrale di stoccaggio gas di Brugherio, Robecco, Crocetta, Cinisello Balsamo, Zona Omogenea Milano Nord, Milano, Lombardia, 20092, Italia",
+    "status": "TROVATO_COMUNE",
+    "precisione": "COMUNE"
+  },
+  "Corso Umbria 14/E, 10100 Torino, TO, Piemonte, Italia": {
+    "lat": 45.0826192,
+    "lon": 7.6700258,
+    "address": "14e, Corso Umbria, Basso San Donato, San Donato, Circoscrizione 4, Torino, Piemonte, 10144, Italia",
+    "status": "TROVATO",
+    "precisione": "CIVICO"
+  },
+  "Via Trieste 6, 20097 San Donato Milanese, MI, Lombardia, Italia": {
+    "lat": 45.4131824,
+    "lon": 9.266864,
+    "address": "6, Via Trieste, Certosa di San Donato, Triulzo, San Donato Milanese, Rodano, Milano, Lombardia, 20097, Italia",
+    "status": "TROVATO",
+    "precisione": "CIVICO"
+  },
+  "Corso Regina Margherita 223, 10146 Torino, TO, Piemonte, Italia": {
+    "lat": 45.0838774,
+    "lon": 7.6612576,
+    "address": "223, Corso Regina Margherita, Martinetto, San Donato, Circoscrizione 4, Torino, Piemonte, 10144, Italia",
+    "status": "TROVATO",
+    "precisione": "CIVICO"
+  },
+  "Piazza del Duomo 1, 20122 Milano, MI, Lombardia, Italia": {
+    "lat": 45.4637009,
+    "lon": 9.1924345,
+    "address": "Piazza del Duomo, Duomo, Municipio 1, Milano, Rodano, Milano, Lombardia, 20122, Italia",
+    "status": "TROVATO",
+    "precisione": "CIVICO"
+  },
+  "Via Etnea 1, 95124 Catania, CT, Sicilia, Italia": {
+    "lat": 37.5017541,
+    "lon": 15.0875927,
+    "address": "1, Via Etnea, Giudecca, Centro storico, Catania, Sicilia, 95131, Italia",
+    "status": "TROVATO",
+    "precisione": "CIVICO"
+  },
+  "Via dell'Indipendenza 1, 40121 Bologna, BO, Emilia-Romagna, Italia": {
+    "lat": 44.4950932,
+    "lon": 11.3428275,
+    "address": "1, Via dell'Indipendenza, Quadrilatero, Irnerio, Santo Stefano, Bologna, Emilia-Romagna, 40121, Italia",
+    "status": "TROVATO",
+    "precisione": "CIVICO"
+  },
+  "Via Roma 1, 90133 Palermo, PA, Sicilia, Italia": {
+    "lat": 38.0449869,
+    "lon": 13.2984674,
+    "address": "1, Via Roma, Blandino, Altofonte, Palermo, Sicilia, 90072, Italia",
+    "status": "TROVATO",
+    "precisione": "CIVICO"
+  },
+  "Via Giuseppe Garibaldi 1, 16124 Genova, GE, Liguria, Italia": {
+    "lat": 44.4108123,
+    "lon": 8.9344816,
+    "address": "UniCredit Bank, 1, Via Giuseppe Garibaldi, Sottoripa, Maddalena, Centro Est, Genova, Liguria, 16100, Italia",
+    "status": "TROVATO",
+    "precisione": "CIVICO"
+  },
+  "Via Giuseppe Mazzini 1, 37121 Verona, VR, Veneto, Italia": {
+    "lat": 45.4422114,
+    "lon": 10.9978285,
+    "address": "1, Via Giuseppe Mazzini, Città antica, Centro storico, Verona, Veneto, 37121, Italia",
+    "status": "TROVATO",
+    "precisione": "CIVICO"
+  },
+  "Corso Vittorio Emanuele II 70, 10121 Torino, TO, Piemonte, Italia": {
+    "lat": 45.0643762,
+    "lon": 7.6751586,
+    "address": "70a, Corso Vittorio Emanuele II, San Secondo, Centro, Circoscrizione 1, Torino, Piemonte, 10121, Italia",
+    "status": "TROVATO",
+    "precisione": "CIVICO"
+  },
+  "Piazza San Marco 1, 30124 Venezia, VE, Veneto, Italia": {
+    "lat": 45.4342571,
+    "lon": 12.3386717,
+    "address": "Piazza San Marco, San Marco, Venezia-Murano-Burano, Venezia, Veneto, 30124, Italia",
+    "status": "TROVATO",
+    "precisione": "CIVICO"
+  },
+  "Via Venti Settembre 10, 70121 Bari, BA, Puglia, Italia": {
+    "lat": 41.0851218,
+    "lon": 16.7789039,
+    "address": "Via Venti Settembre, Modugno, Bari, Puglia, 70026, Italia",
+    "status": "TROVATO",
+    "precisione": "CIVICO"
+  }
+}
