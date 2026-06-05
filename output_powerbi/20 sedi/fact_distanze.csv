@@ -1,0 +1,357 @@
+﻿NuovaSedeID,SedeID,DistanzaKm,Nuova_Indirizzo,Nuova_Comune,Nuova_Provincia,Esi_CodiciFR,Esi_CodiceAgenzia,Esi_Indirizzo,Esi_Comune,Esi_Provincia,Esi_Tipologia,Esi_StatoPDV
+1,1,0.0,Corso Torino 119,Rivarolo Canavese,TO,FR01724,AG129,Corso Torino 119,Rivarolo Canavese,TO,ESE,Aperto
+1,267,20.317,Corso Torino 119,Rivarolo Canavese,TO,FR01D23,AG307,Corso Massimo D’Azeglio 36,Ivrea,TO,WINDOWS,Aperto
+1,3,20.561,Corso Torino 119,Rivarolo Canavese,TO,FR01760,AG129,Via Italia 88,Settimo Torinese,TO,ESE,Aperto
+1,95,22.795,Corso Torino 119,Rivarolo Canavese,TO,FR01703,AG307,Corso Matteotti 3 B/C,Venaria Reale,TO,ESE,Aperto
+1,53,24.654,Corso Torino 119,Rivarolo Canavese,TO,FR01046,AG307,Via Stradella 226,Torino,TO,ESE,Aperto
+1,136,26.429,Corso Torino 119,Rivarolo Canavese,TO,FR01963,AG194,Regio Parco Corso Belgio 171 F,Torino,TO,ESE,Aperto
+1,7,26.864,Corso Torino 119,Rivarolo Canavese,TO,,AG129,Corso Regina Margherita 223,Torino,TO,WINDOWS,Aperto
+1,5,26.874,Corso Torino 119,Rivarolo Canavese,TO,FR01727,AG129,Corso Umbria 14/E,Torino,TO,ESE,Aperto
+1,79,27.75,Corso Torino 119,Rivarolo Canavese,TO,,AG910,Via Giuseppe Garibaldi 22,Torino,TO,FLAGSHIP,Aperto
+1,270,28.158,Corso Torino 119,Rivarolo Canavese,TO,,AG707,"Via Alessandro Manzoni, 10",Pianezza,TO,WINDOWS,Aperto
+1,132,29.183,Corso Torino 119,Rivarolo Canavese,TO,FR01518,AG194,Corso Einaudi 15 h/i/l,Torino,TO,ESE,Aperto
+1,50,29.848,Corso Torino 119,Rivarolo Canavese,TO,FR01523,AG307,Via Renzo Cattaneo 2,Collegno,TO,ESE,Aperto
+1,114,30.585,Corso Torino 119,Rivarolo Canavese,TO,,AG660,Via Crea 10 (CC LE GRU),GRUGLIASCO,TO,MALL,Aperto
+1,2,31.716,Corso Torino 119,Rivarolo Canavese,TO,FR01725,AG129,Corso Francia 30/B,Rivoli,TO,ESE,Aperto
+1,56,33.944,Corso Torino 119,Rivarolo Canavese,TO,FR01746,AG307,Via Nizza 378,Torino,TO,ESE,Aperto
+1,44,35.849,Corso Torino 119,Rivarolo Canavese,TO,FR01A34,AG307,Via F.lli Rosselli 104,Biella,BI,ESE,Aperto
+1,125,35.983,Corso Torino 119,Rivarolo Canavese,TO,FR01517,AG194,Via Cavour 4 bis/B,Moncalieri,TO,ESE,Aperto
+1,142,36.452,Corso Torino 119,Rivarolo Canavese,TO,,AG194,Via Torino 155/B,Nichelino,TO,WINDOWS,Aperto
+1,118,36.535,Corso Torino 119,Rivarolo Canavese,TO,FR01516,AG194,Corso Dora 13,Avigliana,TO,ESE,Aperto
+1,214,38.022,Corso Torino 119,Rivarolo Canavese,TO,FR01C01,AG707,Piazza Vittorio Veneto nr.14,ORBASSANO,TO,WINDOWS,Aperto
+2,2,0.073,Corso Francia 30/B,Rivoli,TO,FR01725,AG129,Corso Francia 30/B,Rivoli,TO,ESE,Aperto
+2,270,3.584,Corso Francia 30/B,Rivoli,TO,,AG707,"Via Alessandro Manzoni, 10",Pianezza,TO,WINDOWS,Aperto
+2,50,3.953,Corso Francia 30/B,Rivoli,TO,FR01523,AG307,Via Renzo Cattaneo 2,Collegno,TO,ESE,Aperto
+2,114,6.504,Corso Francia 30/B,Rivoli,TO,,AG660,Via Crea 10 (CC LE GRU),GRUGLIASCO,TO,MALL,Aperto
+2,214,7.303,Corso Francia 30/B,Rivoli,TO,FR01C01,AG707,Piazza Vittorio Veneto nr.14,ORBASSANO,TO,WINDOWS,Aperto
+2,95,9.67,Corso Francia 30/B,Rivoli,TO,FR01703,AG307,Corso Matteotti 3 B/C,Venaria Reale,TO,ESE,Aperto
+2,7,10.078,Corso Francia 30/B,Rivoli,TO,,AG129,Corso Regina Margherita 223,Torino,TO,WINDOWS,Aperto
+2,132,10.171,Corso Francia 30/B,Rivoli,TO,FR01518,AG194,Corso Einaudi 15 h/i/l,Torino,TO,ESE,Aperto
+2,118,10.548,Corso Francia 30/B,Rivoli,TO,FR01516,AG194,Corso Dora 13,Avigliana,TO,ESE,Aperto
+2,5,10.743,Corso Francia 30/B,Rivoli,TO,FR01727,AG129,Corso Umbria 14/E,Torino,TO,ESE,Aperto
+2,53,10.922,Corso Francia 30/B,Rivoli,TO,FR01046,AG307,Via Stradella 226,Torino,TO,ESE,Aperto
+2,79,11.317,Corso Francia 30/B,Rivoli,TO,,AG910,Via Giuseppe Garibaldi 22,Torino,TO,FLAGSHIP,Aperto
+2,56,11.585,Corso Francia 30/B,Rivoli,TO,FR01746,AG307,Via Nizza 378,Torino,TO,ESE,Aperto
+2,142,12.243,Corso Francia 30/B,Rivoli,TO,,AG194,Via Torino 155/B,Nichelino,TO,WINDOWS,Aperto
+2,136,13.345,Corso Francia 30/B,Rivoli,TO,FR01963,AG194,Regio Parco Corso Belgio 171 F,Torino,TO,ESE,Aperto
+2,125,14.002,Corso Francia 30/B,Rivoli,TO,FR01517,AG194,Via Cavour 4 bis/B,Moncalieri,TO,ESE,Aperto
+2,3,20.175,Corso Francia 30/B,Rivoli,TO,FR01760,AG129,Via Italia 88,Settimo Torinese,TO,ESE,Aperto
+2,120,28.949,Corso Francia 30/B,Rivoli,TO,FR01745,AG194,Via F.lli Vercelli 116,Carmagnola,TO,ESE,Aperto
+2,1,31.678,Corso Francia 30/B,Rivoli,TO,FR01724,AG129,Corso Torino 119,Rivarolo Canavese,TO,ESE,Aperto
+2,121,35.568,Corso Francia 30/B,Rivoli,TO,FR01744,AG194,Via Saluzzo 6,Cavour,TO,ESE,Aperto
+2,275,47.369,Corso Francia 30/B,Rivoli,TO,FR01D41,AG707,"Piazza Cavour, 36",Saluzzo,CN,WINDOWS,Aperto
+2,264,48.015,Corso Francia 30/B,Rivoli,TO,FR01D29,AG307,Via Savio 23,Savigliano,CN,ESE,Aperto
+3,3,0.192,Via Italia 88,Settimo Torinese,TO,FR01760,AG129,Via Italia 88,Settimo Torinese,TO,ESE,Aperto
+3,136,8.0,Via Italia 88,Settimo Torinese,TO,FR01963,AG194,Regio Parco Corso Belgio 171 F,Torino,TO,ESE,Aperto
+3,53,9.083,Via Italia 88,Settimo Torinese,TO,FR01046,AG307,Via Stradella 226,Torino,TO,ESE,Aperto
+3,5,9.992,Via Italia 88,Settimo Torinese,TO,FR01727,AG129,Corso Umbria 14/E,Torino,TO,ESE,Aperto
+3,79,10.156,Via Italia 88,Settimo Torinese,TO,,AG910,Via Giuseppe Garibaldi 22,Torino,TO,FLAGSHIP,Aperto
+3,7,10.464,Via Italia 88,Settimo Torinese,TO,,AG129,Corso Regina Margherita 223,Torino,TO,WINDOWS,Aperto
+3,95,11.377,Via Italia 88,Settimo Torinese,TO,FR01703,AG307,Corso Matteotti 3 B/C,Venaria Reale,TO,ESE,Aperto
+3,132,11.886,Via Italia 88,Settimo Torinese,TO,FR01518,AG194,Corso Einaudi 15 h/i/l,Torino,TO,ESE,Aperto
+3,114,15.125,Via Italia 88,Settimo Torinese,TO,,AG660,Via Crea 10 (CC LE GRU),GRUGLIASCO,TO,MALL,Aperto
+3,56,15.701,Via Italia 88,Settimo Torinese,TO,FR01746,AG307,Via Nizza 378,Torino,TO,ESE,Aperto
+3,50,16.317,Via Italia 88,Settimo Torinese,TO,FR01523,AG307,Via Renzo Cattaneo 2,Collegno,TO,ESE,Aperto
+3,125,16.981,Via Italia 88,Settimo Torinese,TO,FR01517,AG194,Via Cavour 4 bis/B,Moncalieri,TO,ESE,Aperto
+3,270,17.871,Via Italia 88,Settimo Torinese,TO,,AG707,"Via Alessandro Manzoni, 10",Pianezza,TO,WINDOWS,Aperto
+3,142,18.217,Via Italia 88,Settimo Torinese,TO,,AG194,Via Torino 155/B,Nichelino,TO,WINDOWS,Aperto
+3,2,20.052,Via Italia 88,Settimo Torinese,TO,FR01725,AG129,Corso Francia 30/B,Rivoli,TO,ESE,Aperto
+3,1,20.616,Via Italia 88,Settimo Torinese,TO,FR01724,AG129,Corso Torino 119,Rivarolo Canavese,TO,ESE,Aperto
+3,214,23.272,Via Italia 88,Settimo Torinese,TO,FR01C01,AG707,Piazza Vittorio Veneto nr.14,ORBASSANO,TO,WINDOWS,Aperto
+3,118,29.507,Via Italia 88,Settimo Torinese,TO,FR01516,AG194,Corso Dora 13,Avigliana,TO,ESE,Aperto
+3,120,32.571,Via Italia 88,Settimo Torinese,TO,FR01745,AG194,Via F.lli Vercelli 116,Carmagnola,TO,ESE,Aperto
+3,267,37.753,Via Italia 88,Settimo Torinese,TO,FR01D23,AG307,Corso Massimo D’Azeglio 36,Ivrea,TO,WINDOWS,Aperto
+3,179,44.929,Via Italia 88,Settimo Torinese,TO,FR01774,AG305,Corso Alessandria 138,Asti,AT,ESE,Aperto
+4,64,3.677,Via Alcide De Gasperi 62,Brugherio,MI,FR03576,AG267,Via Cooperazione 43,Cusano Milanino,MI,ESE,Aperto
+4,32,3.769,Via Alcide De Gasperi 62,Brugherio,MI,FR03925,AG927,Via Carlo Prina 7/9,Monza,MB,ESE,Aperto
+4,4,5.403,Via Alcide De Gasperi 62,Brugherio,MI,FR03640,AG129,Via Alcide De Gasperi 62,Brugherio,MI,ESE,Aperto
+4,172,9.531,Via Alcide De Gasperi 62,Brugherio,MI,,AG660,VIA GIUSEPPE GARIBALDI 1,LIMBIATE,MB,MALL,Aperto
+4,69,9.754,Via Alcide De Gasperi 62,Brugherio,MI,,AG611,c.so Buenos aires 3 angolo panfilo Castaldi 41,Milano,MI,FLAGSHIP,Aperto
+4,25,11.724,Via Alcide De Gasperi 62,Brugherio,MI,FR03004,AG317,Largo Europa 4,Vimercate,MB,ESE,Aperto
+4,237,13.955,Via Alcide De Gasperi 62,Brugherio,MI,FR03C33,AG546,"Via F. Argelati, 44",Milano,MI,ESE,Aperto
+4,177,16.297,Via Alcide De Gasperi 62,Brugherio,MI,,AG660,VIA DELLA LIBERAZIONE 8,PESCHIERA BORROMEO,MI,MALL,Aperto
+4,6,16.916,Via Alcide De Gasperi 62,Brugherio,MI,FR03739,AG129,Via Trieste 6,San Donato Milanese,MI,ESE,Aperto
+4,181,21.553,Via Alcide De Gasperi 62,Brugherio,MI,,AG660,VIA PALMIRO TOGLIATTI 1,RESCALDINA,MI,MALL,Aperto
+4,23,28.563,Via Alcide De Gasperi 62,Brugherio,MI,,AG317,via Cesare Battisti 27/C,Treviglio,BG,WINDOWS,Aperto
+4,269,30.101,Via Alcide De Gasperi 62,Brugherio,MI,,AG707,"Via Sant'Antonio Abate, 4",Busto Arsizio,VA,WINDOWS,Aperto
+4,103,32.715,Via Alcide De Gasperi 62,Brugherio,MI,,AG660,VIA ENRICO FERMI 1,CURNO,BG,MALL,Aperto
+4,81,36.783,Via Alcide De Gasperi 62,Brugherio,MI,,AG940,Via Tiraboschi 46,Bergamo,BG,FLAGSHIP,Aperto
+4,35,38.657,Via Alcide De Gasperi 62,Brugherio,MI,FR03941,AG927,Via Madre Francesca Cabrini 39,Sant'Angelo Lodigiano,LO,ESE,Aperto
+4,229,40.613,Via Alcide De Gasperi 62,Brugherio,MI,,AG305,Via della Repubblica 5,Vigevano,PV,WINDOWS,Aperto
+4,33,42.425,Via Alcide De Gasperi 62,Brugherio,MI,FR03990,AG927,"Via XX Settembre 43, ang. Via Roma",Pavia,PV,ESE,Aperto
+5,5,0.0,Corso Umbria 14/E,Torino,TO,FR01727,AG129,Corso Umbria 14/E,Torino,TO,ESE,Aperto
+5,7,0.702,Corso Umbria 14/E,Torino,TO,,AG129,Corso Regina Margherita 223,Torino,TO,WINDOWS,Aperto
+5,79,1.182,Corso Umbria 14/E,Torino,TO,,AG910,Via Giuseppe Garibaldi 22,Torino,TO,FLAGSHIP,Aperto
+5,132,2.313,Corso Umbria 14/E,Torino,TO,FR01518,AG194,Corso Einaudi 15 h/i/l,Torino,TO,ESE,Aperto
+5,53,2.355,Corso Umbria 14/E,Torino,TO,FR01046,AG307,Via Stradella 226,Torino,TO,ESE,Aperto
+5,136,2.607,Corso Umbria 14/E,Torino,TO,FR01963,AG194,Regio Parco Corso Belgio 171 F,Torino,TO,ESE,Aperto
+5,114,5.147,Corso Umbria 14/E,Torino,TO,,AG660,Via Crea 10 (CC LE GRU),GRUGLIASCO,TO,MALL,Aperto
+5,95,6.192,Corso Umbria 14/E,Torino,TO,FR01703,AG307,Corso Matteotti 3 B/C,Venaria Reale,TO,ESE,Aperto
+5,50,6.812,Corso Umbria 14/E,Torino,TO,FR01523,AG307,Via Renzo Cattaneo 2,Collegno,TO,ESE,Aperto
+5,56,7.09,Corso Umbria 14/E,Torino,TO,FR01746,AG307,Via Nizza 378,Torino,TO,ESE,Aperto
+5,125,9.34,Corso Umbria 14/E,Torino,TO,FR01517,AG194,Via Cavour 4 bis/B,Moncalieri,TO,ESE,Aperto
+5,142,9.578,Corso Umbria 14/E,Torino,TO,,AG194,Via Torino 155/B,Nichelino,TO,WINDOWS,Aperto
+5,270,9.755,Corso Umbria 14/E,Torino,TO,,AG707,"Via Alessandro Manzoni, 10",Pianezza,TO,WINDOWS,Aperto
+5,3,10.18,Corso Umbria 14/E,Torino,TO,FR01760,AG129,Via Italia 88,Settimo Torinese,TO,ESE,Aperto
+5,2,10.816,Corso Umbria 14/E,Torino,TO,FR01725,AG129,Corso Francia 30/B,Rivoli,TO,ESE,Aperto
+5,214,13.285,Corso Umbria 14/E,Torino,TO,FR01C01,AG707,Piazza Vittorio Veneto nr.14,ORBASSANO,TO,WINDOWS,Aperto
+5,118,21.073,Corso Umbria 14/E,Torino,TO,FR01516,AG194,Corso Dora 13,Avigliana,TO,ESE,Aperto
+5,120,26.526,Corso Umbria 14/E,Torino,TO,FR01745,AG194,Via F.lli Vercelli 116,Carmagnola,TO,ESE,Aperto
+5,1,26.874,Corso Umbria 14/E,Torino,TO,FR01724,AG129,Corso Torino 119,Rivarolo Canavese,TO,ESE,Aperto
+5,121,41.39,Corso Umbria 14/E,Torino,TO,FR01744,AG194,Via Saluzzo 6,Cavour,TO,ESE,Aperto
+5,267,45.966,Corso Umbria 14/E,Torino,TO,FR01D23,AG307,Corso Massimo D’Azeglio 36,Ivrea,TO,WINDOWS,Aperto
+5,264,48.399,Corso Umbria 14/E,Torino,TO,FR01D29,AG307,Via Savio 23,Savigliano,CN,ESE,Aperto
+5,179,48.875,Corso Umbria 14/E,Torino,TO,FR01774,AG305,Corso Alessandria 138,Asti,AT,ESE,Aperto
+6,6,0.015,Via Trieste 6,San Donato Milanese,MI,FR03739,AG129,Via Trieste 6,San Donato Milanese,MI,ESE,Aperto
+6,177,2.327,Via Trieste 6,San Donato Milanese,MI,,AG660,VIA DELLA LIBERAZIONE 8,PESCHIERA BORROMEO,MI,MALL,Aperto
+6,237,8.248,Via Trieste 6,San Donato Milanese,MI,FR03C33,AG546,"Via F. Argelati, 44",Milano,MI,ESE,Aperto
+6,69,8.696,Via Trieste 6,San Donato Milanese,MI,,AG611,c.so Buenos aires 3 angolo panfilo Castaldi 41,Milano,MI,FLAGSHIP,Aperto
+6,4,15.814,Via Trieste 6,San Donato Milanese,MI,FR03640,AG129,Via Alcide De Gasperi 62,Brugherio,MI,ESE,Aperto
+6,64,16.464,Via Trieste 6,San Donato Milanese,MI,FR03576,AG267,Via Cooperazione 43,Cusano Milanino,MI,ESE,Aperto
+6,32,19.403,Via Trieste 6,San Donato Milanese,MI,FR03925,AG927,Via Carlo Prina 7/9,Monza,MB,ESE,Aperto
+6,35,22.22,Via Trieste 6,San Donato Milanese,MI,FR03941,AG927,Via Madre Francesca Cabrini 39,Sant'Angelo Lodigiano,LO,ESE,Aperto
+6,25,23.296,Via Trieste 6,San Donato Milanese,MI,FR03004,AG317,Largo Europa 4,Vimercate,MB,ESE,Aperto
+6,172,24.028,Via Trieste 6,San Donato Milanese,MI,,AG660,VIA GIUSEPPE GARIBALDI 1,LIMBIATE,MB,MALL,Aperto
+6,33,26.743,Via Trieste 6,San Donato Milanese,MI,FR03990,AG927,"Via XX Settembre 43, ang. Via Roma",Pavia,PV,ESE,Aperto
+6,23,29.056,Via Trieste 6,San Donato Milanese,MI,,AG317,via Cesare Battisti 27/C,Treviglio,BG,WINDOWS,Aperto
+6,181,32.157,Via Trieste 6,San Donato Milanese,MI,,AG660,VIA PALMIRO TOGLIATTI 1,RESCALDINA,MI,MALL,Aperto
+6,229,34.26,Via Trieste 6,San Donato Milanese,MI,,AG305,Via della Repubblica 5,Vigevano,PV,WINDOWS,Aperto
+6,269,39.131,Via Trieste 6,San Donato Milanese,MI,,AG707,"Via Sant'Antonio Abate, 4",Busto Arsizio,VA,WINDOWS,Aperto
+6,103,40.574,Via Trieste 6,San Donato Milanese,MI,,AG660,VIA ENRICO FERMI 1,CURNO,BG,MALL,Aperto
+6,81,44.114,Via Trieste 6,San Donato Milanese,MI,,AG940,Via Tiraboschi 46,Bergamo,BG,FLAGSHIP,Aperto
+7,7,0.0,Corso Regina Margherita 223,Torino,TO,,AG129,Corso Regina Margherita 223,Torino,TO,WINDOWS,Aperto
+7,5,0.702,Corso Regina Margherita 223,Torino,TO,FR01727,AG129,Corso Umbria 14/E,Torino,TO,ESE,Aperto
+7,79,1.748,Corso Regina Margherita 223,Torino,TO,,AG910,Via Giuseppe Garibaldi 22,Torino,TO,FLAGSHIP,Aperto
+7,53,2.213,Corso Regina Margherita 223,Torino,TO,FR01046,AG307,Via Stradella 226,Torino,TO,ESE,Aperto
+7,132,2.393,Corso Regina Margherita 223,Torino,TO,FR01518,AG194,Corso Einaudi 15 h/i/l,Torino,TO,ESE,Aperto
+7,136,3.293,Corso Regina Margherita 223,Torino,TO,FR01963,AG194,Regio Parco Corso Belgio 171 F,Torino,TO,ESE,Aperto
+7,114,4.668,Corso Regina Margherita 223,Torino,TO,,AG660,Via Crea 10 (CC LE GRU),GRUGLIASCO,TO,MALL,Aperto
+7,95,5.715,Corso Regina Margherita 223,Torino,TO,FR01703,AG307,Corso Matteotti 3 B/C,Venaria Reale,TO,ESE,Aperto
+7,50,6.161,Corso Regina Margherita 223,Torino,TO,FR01523,AG307,Via Renzo Cattaneo 2,Collegno,TO,ESE,Aperto
+7,56,7.201,Corso Regina Margherita 223,Torino,TO,FR01746,AG307,Via Nizza 378,Torino,TO,ESE,Aperto
+7,270,9.053,Corso Regina Margherita 223,Torino,TO,,AG707,"Via Alessandro Manzoni, 10",Pianezza,TO,WINDOWS,Aperto
+7,125,9.562,Corso Regina Margherita 223,Torino,TO,FR01517,AG194,Via Cavour 4 bis/B,Moncalieri,TO,ESE,Aperto
+7,142,9.63,Corso Regina Margherita 223,Torino,TO,,AG194,Via Torino 155/B,Nichelino,TO,WINDOWS,Aperto
+7,2,10.151,Corso Regina Margherita 223,Torino,TO,FR01725,AG129,Corso Francia 30/B,Rivoli,TO,ESE,Aperto
+7,3,10.654,Corso Regina Margherita 223,Torino,TO,FR01760,AG129,Via Italia 88,Settimo Torinese,TO,ESE,Aperto
+7,214,12.86,Corso Regina Margherita 223,Torino,TO,FR01C01,AG707,Piazza Vittorio Veneto nr.14,ORBASSANO,TO,WINDOWS,Aperto
+7,118,20.381,Corso Regina Margherita 223,Torino,TO,FR01516,AG194,Corso Dora 13,Avigliana,TO,ESE,Aperto
+7,120,26.776,Corso Regina Margherita 223,Torino,TO,FR01745,AG194,Via F.lli Vercelli 116,Carmagnola,TO,ESE,Aperto
+7,1,26.864,Corso Regina Margherita 223,Torino,TO,FR01724,AG129,Corso Torino 119,Rivarolo Canavese,TO,ESE,Aperto
+7,121,41.143,Corso Regina Margherita 223,Torino,TO,FR01744,AG194,Via Saluzzo 6,Cavour,TO,ESE,Aperto
+7,267,46.091,Corso Regina Margherita 223,Torino,TO,FR01D23,AG307,Corso Massimo D’Azeglio 36,Ivrea,TO,WINDOWS,Aperto
+7,264,48.524,Corso Regina Margherita 223,Torino,TO,FR01D29,AG307,Via Savio 23,Savigliano,CN,ESE,Aperto
+7,179,49.562,Corso Regina Margherita 223,Torino,TO,FR01774,AG305,Corso Alessandria 138,Asti,AT,ESE,Aperto
+8,54,0.0,Via del Corso 1,Roma,RM,FR12A64,AG707,via di Gabriello Chiabrera 44,Roma,RM,WINDOWS,Aperto
+8,247,0.0,Via del Corso 1,Roma,RM,FR12C53,AG707,Via E. Jenner 139A,Roma,RM,ESE,Aperto
+8,244,0.0,Via del Corso 1,Roma,RM,,AG870,VIALE DELL'OCEANO PACIFICO 83 LOCALITA' CASTELLACCIO,ROMA,RM,MALL,Aperto
+8,260,2.381,Via del Corso 1,Roma,RM,,AGD12,Via Cola di Rienzo 159-161,Roma,RM,FLAGSHIP,Aperto
+8,135,2.515,Via del Corso 1,Roma,RM,FR12767,AG194,Via Gabi 1,ROMA,RM,ESE,Aperto
+8,203,3.223,Via del Corso 1,Roma,RM,FR12579,AG127,Piazza Augusto Albini 32/34,ROMA,RM,ESE,Aperto
+8,11,3.54,Via del Corso 1,Roma,RM,FR12033,AG310,Viale degli Ammiragli 83,ROMA,RM,ESE,Aperto
+8,189,3.692,Via del Corso 1,Roma,RM,,AG334,Piazza dell'Alberone 14,Roma,RM,WINDOWS,Aperto
+8,59,4.016,Via del Corso 1,Roma,RM,FR14B97,AG127,Via Stamira 4C,Roma,RM,WINDOWS,Aperto
+8,225,4.409,Via del Corso 1,Roma,RM,FR12398,AG240,Via Enrico Giglioli 87 B/C,Roma,RM,ESE,Aperto
+8,226,4.515,Via del Corso 1,Roma,RM,FR12398,AG240,Via Roberto Malatesta 227,ROMA,RM,ESE,Aperto
+8,42,4.916,Via del Corso 1,Roma,RM,,AG870,Largo Antonio Beltramelli 31,Roma,RM,WINDOWS,Aperto
+8,13,5.305,Via del Corso 1,Roma,RM,FR12075,AG310,V.le Somalia 37,ROMA,RM,ESE,Aperto
+8,258,5.553,Via del Corso 1,Roma,RM,,AGA12,Via Casilina 991F,Roma,RM,WINDOWS,Aperto
+8,130,6.033,Via del Corso 1,Roma,RM,FR12393,AG194,Via G. Volpato 7-9-11-13,ROMA,RM,ESE,Aperto
+8,143,6.074,Via del Corso 1,Roma,RM,,AG194,Via del Casale Ninfeo 6-8,Roma,RM,WINDOWS,Aperto
+8,210,6.236,Via del Corso 1,Roma,RM,,AG870,Via Anagni 136,Roma,RM,WINDOWS,Aperto
+8,185,6.604,Via del Corso 1,Roma,RM,FR12074,AG334,Via Giuseppe Sirtori 86/88,Roma,RM,ESE,Aperto
+8,202,6.616,Via del Corso 1,Roma,RM,FR12049,AG127,Via Lucio Calpurnio Bibulo 5/7,ROMA,RM,ESE,Aperto
+8,14,6.693,Via del Corso 1,Roma,RM,FR12551,AG310,Viale Carnaro 28,ROMA,RM,ESE,Aperto
+8,157,6.723,Via del Corso 1,Roma,RM,,AG194,Via di Torrevecchia 83,Roma,RM,WINDOWS,Aperto
+8,201,6.736,Via del Corso 1,Roma,RM,FR12023,AG127,Via Beata Vergine del Carmelo 131/133,ROMA,RM,ESE,Aperto
+8,83,6.959,Via del Corso 1,Roma,RM,,AGC10,Viale Europa n.67,Roma,RM,FLAGSHIP,Aperto
+8,262,7.573,Via del Corso 1,Roma,RM,FR12D06,AG707,Via Curzio Rufo 3,ROMA,RM,WINDOWS,Aperto
+8,183,7.7,Via del Corso 1,Roma,RM,,AG310,Piazza Filattiera nr. 38,ROMA,RM,WINDOWS,Aperto
+8,128,7.712,Via del Corso 1,Roma,RM,FR12396,AG194,Viale Palmiro Togliatti 16/17,ROMA,RM,ESE,Aperto
+8,39,7.722,Via del Corso 1,Roma,RM,,AGA12,Via Augusto Terenzi 31/33/35,ROMA,RM,WINDOWS,Aperto
+8,271,8.215,Via del Corso 1,Roma,RM,FR12A66,AG707,Via dei caduti della resistenza 699,Roma,RM,WINDOWS,Aperto
+8,209,8.306,Via del Corso 1,Roma,RM,,AG194,Via Renato Fucini 22,ROMA,RM,WINDOWS,Aperto
+8,58,8.522,Via del Corso 1,Roma,RM,FR12A65,AG707,Viale caduti nella guerra di liberazione 402,Roma,RM,WINDOWS,Aperto
+8,15,9.548,Via del Corso 1,Roma,RM,FR12552,AG310,Via Borgo Ticino 41/43,ROMA,RM,ESE,Aperto
+8,112,9.705,Via del Corso 1,Roma,RM,,AG870,VIA ALBERTO LIONELLO 201,ROMA,RM,MALL,Aperto
+8,115,11.461,Via del Corso 1,Roma,RM,,AG870,Via Troilo Il Grande 84-86,ROMA,RM,WINDOWS,Aperto
+8,129,12.324,Via del Corso 1,Roma,RM,FR12395,AG194,Via Cappelletta della Giustiniana 18,ROMA,RM,ESE,Aperto
+8,16,14.371,Via del Corso 1,Roma,RM,FR12583,AG310,Via Francesco Caltagirone 319,ROMA,RM,ESE,Aperto
+8,187,14.768,Via del Corso 1,Roma,RM,FR12775,AG334,Via Mura Dei Francesi 197/G-H,Ciampino,RM,ESE,Aperto
+8,113,15.536,Via del Corso 1,Roma,RM,,AG870,VIA COLLATINA,ROMA,RM,MALL,Aperto
+8,92,17.151,Via del Corso 1,Roma,RM,FR12943,AG707,Via Amedeo Bocchi 178,Roma,RM,ESE,Aperto
+8,18,17.549,Via del Corso 1,Roma,RM,FR12583,AG310,Via Casilina 1890/N,ROMA,RM,ESE,Aperto
+8,148,17.772,Via del Corso 1,Roma,RM,,AG194,Via Prenestina 386/384,Roma,RM,WINDOWS,Aperto
+8,188,18.776,Via del Corso 1,Roma,RM,FR12010,AG334,Via Ermanno Wolf Ferrari 316,ROMA,RM,ESE,Aperto
+8,208,19.324,Via del Corso 1,Roma,RM,FR12B21,AG127,Corso del Popolo 32,Grottaferrata,RM,WINDOWS,Aperto
+8,234,20.015,Via del Corso 1,Roma,RM,,AG310,"via Tiburtina,113",TIVOLI TERME,RM,WINDOWS,Aperto
+8,38,21.433,Via del Corso 1,Roma,RM,,AGA12,Via Mazzini 3,MONTEROTONDO,RM,WINDOWS,Aperto
+8,10,23.037,Via del Corso 1,Roma,RM,FR12011,AG310,Via Umberto Maddalena 44,Guidonia,RM,ESE,Aperto
+8,221,23.52,Via del Corso 1,Roma,RM,FR12502,AG240,Via Gaetano Donizetti 37,Albano Laziale,RM,ESE,Aperto
+8,126,24.846,Via del Corso 1,Roma,RM,FR12735,AG194,Via Capitan Consalvo 25/27,Ostia Lido,RM,ESE,Aperto
+8,186,25.544,Via del Corso 1,Roma,RM,FR12010,AG334,Via Formoso 36,Fiumicino,RM,ESE,Aperto
+8,40,25.922,Via del Corso 1,Roma,RM,FR12A13,AGA12,Via Flaminia 12,Castelnuovo di Porto,RM,ESE,Aperto
+8,231,27.086,Via del Corso 1,Roma,RM,,AG194,Via Vincenzo Pacifici 4/6,TIVOLI,RM,WINDOWS,Aperto
+8,204,27.604,Via del Corso 1,Roma,RM,FR12B22,AG127,Via del mare 47/49,Pomezia,RM,WINDOWS,Aperto
+8,8,32.219,Via del Corso 1,Roma,RM,FR12004,AG310,Via XXIV MAGGIO 37,Passo Corese,RI,ESE,Aperto
+8,41,32.267,Via del Corso 1,Roma,RM,,AGA12,Via Roma 13,Fiano Romano,Rm,WINDOWS,Aperto
+8,220,33.599,Via del Corso 1,Roma,RM,,AG127,Corso della Repubblica n. 145/147,Velletri,RM,WINDOWS,Aperto
+8,124,34.184,Via del Corso 1,Roma,RM,FR12801,AG194,Piazza G. Falcone 23,Ladispoli,RM,ESE,Aperto
+8,119,34.394,Via del Corso 1,Roma,RM,FR12622,AG194,Via Agostino Fausti 10/12,Bracciano,RM,ESE,Aperto
+8,57,35.724,Via del Corso 1,Roma,RM,FR12A68,AG707,via Volta 15,Aprilia,LT,WINDOWS,Aperto
+8,9,45.345,Via del Corso 1,Roma,RM,FR12006,AG310,Via Papa Giovanni XXIII 4 B,Civita Castellana,VT,ESE,Aperto
+8,138,49.334,Via del Corso 1,Roma,RM,FR12965,AG194,Via Armellini 26,Latina,LT,ESE,Aperto
+9,69,1.865,Piazza del Duomo 1,Milano,MI,,AG611,c.so Buenos aires 3 angolo panfilo Castaldi 41,Milano,MI,FLAGSHIP,Aperto
+9,237,2.577,Piazza del Duomo 1,Milano,MI,FR03C33,AG546,"Via F. Argelati, 44",Milano,MI,ESE,Aperto
+9,6,8.065,Piazza del Duomo 1,Milano,MI,FR03739,AG129,Via Trieste 6,San Donato Milanese,MI,ESE,Aperto
+9,177,9.051,Piazza del Duomo 1,Milano,MI,,AG660,VIA DELLA LIBERAZIONE 8,PESCHIERA BORROMEO,MI,MALL,Aperto
+9,64,9.699,Piazza del Duomo 1,Milano,MI,FR03576,AG267,Via Cooperazione 43,Cusano Milanino,MI,ESE,Aperto
+9,4,13.069,Piazza del Duomo 1,Milano,MI,FR03640,AG129,Via Alcide De Gasperi 62,Brugherio,MI,ESE,Aperto
+9,32,14.958,Piazza del Duomo 1,Milano,MI,FR03925,AG927,Via Carlo Prina 7/9,Monza,MB,ESE,Aperto
+9,172,16.585,Piazza del Duomo 1,Milano,MI,,AG660,VIA GIUSEPPE GARIBALDI 1,LIMBIATE,MB,MALL,Aperto
+9,25,21.278,Piazza del Duomo 1,Milano,MI,FR03004,AG317,Largo Europa 4,Vimercate,MB,ESE,Aperto
+9,181,24.08,Piazza del Duomo 1,Milano,MI,,AG660,VIA PALMIRO TOGLIATTI 1,RESCALDINA,MI,MALL,Aperto
+9,35,29.989,Piazza del Duomo 1,Milano,MI,FR03941,AG927,Via Madre Francesca Cabrini 39,Sant'Angelo Lodigiano,LO,ESE,Aperto
+9,33,31.02,Piazza del Duomo 1,Milano,MI,FR03990,AG927,"Via XX Settembre 43, ang. Via Roma",Pavia,PV,ESE,Aperto
+9,269,31.193,Piazza del Duomo 1,Milano,MI,,AG707,"Via Sant'Antonio Abate, 4",Busto Arsizio,VA,WINDOWS,Aperto
+9,229,31.35,Piazza del Duomo 1,Milano,MI,,AG305,Via della Repubblica 5,Vigevano,PV,WINDOWS,Aperto
+9,23,32.507,Piazza del Duomo 1,Milano,MI,,AG317,via Cesare Battisti 27/C,Treviglio,BG,WINDOWS,Aperto
+9,103,41.101,Piazza del Duomo 1,Milano,MI,,AG660,VIA ENRICO FERMI 1,CURNO,BG,MALL,Aperto
+9,81,44.968,Piazza del Duomo 1,Milano,MI,,AG940,Via Tiraboschi 46,Bergamo,BG,FLAGSHIP,Aperto
+9,182,45.926,Piazza del Duomo 1,Milano,MI,FR01403,AG305,Viale Giulio Cesare 201/D,Novara,NO,ESE,Aperto
+10,169,0.0,Via Toledo 1,Napoli,,FR14B61,AG164,Via G.Bruno n.189,Napoli,,ESE,Aperto
+10,236,0.24,Via Toledo 1,Napoli,,,AGC18,"Via Toledo, 243",Napoli,,FLAGSHIP,Aperto
+10,272,2.471,Via Toledo 1,Napoli,,FR14B61,AG164,"Via Maurizio De Vito Piscicelli, 104",Napoli,,WINDOWS,Aperto
+10,252,3.9,Via Toledo 1,Napoli,,,AG127,"Via Giuseppe Tropeano, 53",Napoli,,WINDOWS,Aperto
+10,198,4.297,Via Toledo 1,Napoli,,FR14A35,AG127,"Via G. Ponzio, 4 IS. C1 Torre Saverio",Napoli,,ESE,Aperto
+10,195,4.342,Via Toledo 1,Napoli,,FR14860,AG127,Via Delle Porcellane di Capodimonte 43,Napoli,,ESE,Aperto
+10,145,4.982,Via Toledo 1,Napoli,,FR14B45,AG164,"Via Consalvo 107/a, 107/b",Napoli,,ESE,Aperto
+10,257,6.178,Via Toledo 1,Napoli,,,AG127,"Via Vittorio Veneto, 63/65",Napoli,,WINDOWS,Aperto
+10,170,7.16,Via Toledo 1,Napoli,,FR14B62,AG127,Via Alcide de Gasperi 15,San Giorgio a Cremano,,ESE,Aperto
+10,192,7.25,Via Toledo 1,Napoli,,FR14005,AG127,Corso Secondigliano 147ABC,Napoli,,ESE,Aperto
+10,256,7.319,Via Toledo 1,Napoli,,,AG127,"Via Giacinto Gigante, 58",Casavatore,,WINDOWS,Aperto
+10,251,7.438,Via Toledo 1,Napoli,,,AG127,"Via Nazionale delle Puglie, 42",Casoria,,WINDOWS,Aperto
+10,205,8.367,Via Toledo 1,Napoli,,FR14B23,AG127,Corso Italia 33,Marano di Napoli,,WINDOWS,Aperto
+10,196,9.394,Via Toledo 1,Napoli,,FR14995,AG127,Via Santa Maria 60/62,Quarto,,ESE,Aperto
+10,194,10.607,Via Toledo 1,Napoli,,FR14015,AG127,Via Maristi 18,Giugliano in Campania,,ESE,Aperto
+10,165,10.757,Via Toledo 1,Napoli,,FR14969,AG164,Corso Vittorio Emanuele 113,Afragola,,ESE,Aperto
+10,253,14.706,Via Toledo 1,Napoli,,,AG127,"Corso Umberto I, 156",Caivano,,WINDOWS,Aperto
+10,156,15.773,Via Toledo 1,Napoli,,FR14B35,AG127,Via Camillo Benso Cavuour 5,Aversa,CE,WINDOWS,Aperto
+10,111,15.788,Via Toledo 1,Napoli,,,AG527,Via Monsignor Gennaro Verolino 19,ACERRA,,WINDOWS,Aperto
+10,228,20.183,Via Toledo 1,Napoli,,,AG164,"Piazza Pace, 21",Boscoreale,,WINDOWS,Aperto
+10,160,24.75,Via Toledo 1,Napoli,,FR14013,AG164,"VIA PIETRO COLLETTA, 18",Maddaloni,CE,ESE,Aperto
+10,197,25.063,Via Toledo 1,Napoli,,FR14A16,AG127,Viale Europa 2A/2B,Castellammare di Stabia,,ESE,Aperto
+10,193,25.959,Via Toledo 1,Napoli,,FR14460,AG127,C.so Italia 108,Sant'Agnello,,ESE,Aperto
+10,164,26.533,Via Toledo 1,Napoli,,FR14961,AG164,Viale Abramo Lincoln 83,Caserta,CE,ESE,Aperto
+10,168,26.647,Via Toledo 1,Napoli,,FR12B96,AG127,Via Circumvallazione 3 - 5,NOLA,,WINDOWS,Aperto
+10,162,26.983,Via Toledo 1,Napoli,,FR14761,AG164,Viale Kennedy 75,Santa Maria Capua Vetere,CE,ESE,Aperto
+10,255,34.576,Via Toledo 1,Napoli,,,AG127,via Giacomo Canale n.11,NOCERA INFERIORE,SA,WINDOWS,Aperto
+10,110,39.126,Via Toledo 1,Napoli,,,AG527,Via Vittorio Veneto 49,PIGNATARO MAGGIORE,CE,WINDOWS,Aperto
+10,245,45.413,Via Toledo 1,Napoli,,,AG164,"Via Ruggiero Da Torrecuso, 4",Torrecuso,BN,WINDOWS,Aperto
+10,149,46.257,Via Toledo 1,Napoli,,,AG164,Corso Europa 162,Avellino,AV,WINDOWS,Aperto
+10,159,48.118,Via Toledo 1,Napoli,,,AG164,Via Torrione 59,Salerno,SA,WINDOWS,Aperto
+11,78,1.208,Via Etnea 1,Catania,CT,,AG882,Via Gelso Bianco - Centro Commerciale «le porte di Catania»,Catania,CT,FLAGSHIP,Aperto
+11,268,2.158,Via Etnea 1,Catania,CT,FR19D35,AG267,Via Giacomo Leopardi 8-10,Catania,CT,ESE,Aperto
+11,211,25.829,Via Etnea 1,Catania,CT,,AG315,"Via Cavour, 84",Carlentini,SR,WINDOWS,Aperto
+11,230,49.145,Via Etnea 1,Catania,CT,FR19003,AG315,Via Servi di Maria 129,Siracusa,SR,ESE,Aperto
+12,72,0.082,Via dell'Indipendenza 1,Bologna,BO,,AG617,Via Ugo Bassi 25/E,Bologna,BO,FLAGSHIP,Aperto
+12,199,36.437,Via dell'Indipendenza 1,Bologna,BO,FR08584,AG127,Via Emilia Est 56/58,Modena,MO,ESE,Aperto
+12,174,41.222,Via dell'Indipendenza 1,Bologna,BO,,AG660,"Via Emilia Ovest 1480, C.C. Grandemilia",Modena,MO,MALL,Aperto
+12,96,44.377,Via dell'Indipendenza 1,Bologna,BO,,AG351,Via Montebello 46,FERRARA,FE,WINDOWS,Aperto
+12,200,49.083,Via dell'Indipendenza 1,Bologna,BO,FR08968,AG127,Via Renaccio 1/2,Faenza,RA,ESE,Aperto
+13,68,11.188,Via Roma 1,Palermo,PA,FR19A04,AG267,Via Francesco Paolo Di Blasi 35/39,Palermo,PA,ESE,Aperto
+14,75,0.779,Via Giuseppe Garibaldi 1,Genova,GE,,AG815,via San Vincenzo 106,Genova,GE,FLAGSHIP,Aperto
+14,184,7.313,Via Giuseppe Garibaldi 1,Genova,GE,FR07440,AG441,Via Sestri 272,Genova,GE,ESE,Aperto
+14,217,19.828,Via Giuseppe Garibaldi 1,Genova,GE,,AG762,Via Ghiglini 62,Arenzano,GE,WINDOWS,Aperto
+14,127,23.796,Via Giuseppe Garibaldi 1,Genova,GE,FR07627,AG194,Via S. Anna 100,Rapallo,GE,ESE,Aperto
+14,146,32.79,Via Giuseppe Garibaldi 1,Genova,GE,FR07440,AG441,Corso Assarotti 1 c/d,Chiavari,GE,ESE,Aperto
+14,131,38.185,Via Giuseppe Garibaldi 1,Genova,GE,FR07628,AG194,Via Verdi 21,Savona,SV,ESE,Aperto
+15,77,0.32,Via Giuseppe Mazzini 1,Verona,VR,,AG833,Corso Porta Borsari 53,Verona,VR,FLAGSHIP,Aperto
+15,48,11.835,Via Giuseppe Mazzini 1,Verona,VR,FR04730,AG707,Largo Salvo D’Acquisto 24,Bussolengo,VR,ESE,Aperto
+15,52,35.996,Via Giuseppe Mazzini 1,Verona,VR,FR03846,AG707,Via Monte Grappa 32,Desenzano Del Garda,BS,ESE,Aperto
+15,73,44.275,Via Giuseppe Mazzini 1,Verona,VR,,AG619,C.so Palladio 2-4,Vicenza,VI,FLAGSHIP,Aperto
+15,89,46.317,Via Giuseppe Mazzini 1,Verona,VR,FR03977,AG707,Via Falcone 12,Montichiari,BS,ESE,Aperto
+15,227,47.599,Via Giuseppe Mazzini 1,Verona,VR,,AG660,STRADA PADANA VERSO PADOVA 60,VICENZA,VI,MALL,Aperto
+16,132,0.972,Corso Vittorio Emanuele II 70,Torino,TO,FR01518,AG194,Corso Einaudi 15 h/i/l,Torino,TO,ESE,Aperto
+16,79,1.066,Corso Vittorio Emanuele II 70,Torino,TO,,AG910,Via Giuseppe Garibaldi 22,Torino,TO,FLAGSHIP,Aperto
+16,5,2.068,Corso Vittorio Emanuele II 70,Torino,TO,FR01727,AG129,Corso Umbria 14/E,Torino,TO,ESE,Aperto
+16,7,2.428,Corso Vittorio Emanuele II 70,Torino,TO,,AG129,Corso Regina Margherita 223,Torino,TO,WINDOWS,Aperto
+16,136,3.077,Corso Vittorio Emanuele II 70,Torino,TO,FR01963,AG194,Regio Parco Corso Belgio 171 F,Torino,TO,ESE,Aperto
+16,53,4.422,Corso Vittorio Emanuele II 70,Torino,TO,FR01046,AG307,Via Stradella 226,Torino,TO,ESE,Aperto
+16,114,4.8,Corso Vittorio Emanuele II 70,Torino,TO,,AG660,Via Crea 10 (CC LE GRU),GRUGLIASCO,TO,MALL,Aperto
+16,56,5.139,Corso Vittorio Emanuele II 70,Torino,TO,FR01746,AG307,Via Nizza 378,Torino,TO,ESE,Aperto
+16,50,7.175,Corso Vittorio Emanuele II 70,Torino,TO,FR01523,AG307,Via Renzo Cattaneo 2,Collegno,TO,ESE,Aperto
+16,125,7.289,Corso Vittorio Emanuele II 70,Torino,TO,FR01517,AG194,Via Cavour 4 bis/B,Moncalieri,TO,ESE,Aperto
+16,142,7.677,Corso Vittorio Emanuele II 70,Torino,TO,,AG194,Via Torino 155/B,Nichelino,TO,WINDOWS,Aperto
+16,95,8.142,Corso Vittorio Emanuele II 70,Torino,TO,FR01703,AG307,Corso Matteotti 3 B/C,Venaria Reale,TO,ESE,Aperto
+16,270,10.758,Corso Vittorio Emanuele II 70,Torino,TO,,AG707,"Via Alessandro Manzoni, 10",Pianezza,TO,WINDOWS,Aperto
+16,2,11.169,Corso Vittorio Emanuele II 70,Torino,TO,FR01725,AG129,Corso Francia 30/B,Rivoli,TO,ESE,Aperto
+16,3,11.25,Corso Vittorio Emanuele II 70,Torino,TO,FR01760,AG129,Via Italia 88,Settimo Torinese,TO,ESE,Aperto
+16,214,12.42,Corso Vittorio Emanuele II 70,Torino,TO,FR01C01,AG707,Piazza Vittorio Veneto nr.14,ORBASSANO,TO,WINDOWS,Aperto
+16,118,21.618,Corso Vittorio Emanuele II 70,Torino,TO,FR01516,AG194,Corso Dora 13,Avigliana,TO,ESE,Aperto
+16,120,24.46,Corso Vittorio Emanuele II 70,Torino,TO,FR01745,AG194,Via F.lli Vercelli 116,Carmagnola,TO,ESE,Aperto
+16,1,28.812,Corso Vittorio Emanuele II 70,Torino,TO,FR01724,AG129,Corso Torino 119,Rivarolo Canavese,TO,ESE,Aperto
+16,121,39.923,Corso Vittorio Emanuele II 70,Torino,TO,FR01744,AG194,Via Saluzzo 6,Cavour,TO,ESE,Aperto
+16,264,46.386,Corso Vittorio Emanuele II 70,Torino,TO,FR01D29,AG307,Via Savio 23,Savigliano,CN,ESE,Aperto
+16,267,47.724,Corso Vittorio Emanuele II 70,Torino,TO,FR01D23,AG307,Corso Massimo D’Azeglio 36,Ivrea,TO,WINDOWS,Aperto
+16,179,47.727,Corso Vittorio Emanuele II 70,Torino,TO,FR01774,AG305,Corso Alessandria 138,Asti,AT,ESE,Aperto
+16,275,48.686,Corso Vittorio Emanuele II 70,Torino,TO,FR01D41,AG707,"Piazza Cavour, 36",Saluzzo,CN,WINDOWS,Aperto
+17,169,0.0,Piazza del Plebiscito 1,Napoli,,FR14B61,AG164,Via G.Bruno n.189,Napoli,,ESE,Aperto
+17,236,0.24,Piazza del Plebiscito 1,Napoli,,,AGC18,"Via Toledo, 243",Napoli,,FLAGSHIP,Aperto
+17,272,2.471,Piazza del Plebiscito 1,Napoli,,FR14B61,AG164,"Via Maurizio De Vito Piscicelli, 104",Napoli,,WINDOWS,Aperto
+17,252,3.9,Piazza del Plebiscito 1,Napoli,,,AG127,"Via Giuseppe Tropeano, 53",Napoli,,WINDOWS,Aperto
+17,198,4.297,Piazza del Plebiscito 1,Napoli,,FR14A35,AG127,"Via G. Ponzio, 4 IS. C1 Torre Saverio",Napoli,,ESE,Aperto
+17,195,4.342,Piazza del Plebiscito 1,Napoli,,FR14860,AG127,Via Delle Porcellane di Capodimonte 43,Napoli,,ESE,Aperto
+17,145,4.982,Piazza del Plebiscito 1,Napoli,,FR14B45,AG164,"Via Consalvo 107/a, 107/b",Napoli,,ESE,Aperto
+17,257,6.178,Piazza del Plebiscito 1,Napoli,,,AG127,"Via Vittorio Veneto, 63/65",Napoli,,WINDOWS,Aperto
+17,170,7.16,Piazza del Plebiscito 1,Napoli,,FR14B62,AG127,Via Alcide de Gasperi 15,San Giorgio a Cremano,,ESE,Aperto
+17,192,7.25,Piazza del Plebiscito 1,Napoli,,FR14005,AG127,Corso Secondigliano 147ABC,Napoli,,ESE,Aperto
+17,256,7.319,Piazza del Plebiscito 1,Napoli,,,AG127,"Via Giacinto Gigante, 58",Casavatore,,WINDOWS,Aperto
+17,251,7.438,Piazza del Plebiscito 1,Napoli,,,AG127,"Via Nazionale delle Puglie, 42",Casoria,,WINDOWS,Aperto
+17,205,8.367,Piazza del Plebiscito 1,Napoli,,FR14B23,AG127,Corso Italia 33,Marano di Napoli,,WINDOWS,Aperto
+17,196,9.394,Piazza del Plebiscito 1,Napoli,,FR14995,AG127,Via Santa Maria 60/62,Quarto,,ESE,Aperto
+17,194,10.607,Piazza del Plebiscito 1,Napoli,,FR14015,AG127,Via Maristi 18,Giugliano in Campania,,ESE,Aperto
+17,165,10.757,Piazza del Plebiscito 1,Napoli,,FR14969,AG164,Corso Vittorio Emanuele 113,Afragola,,ESE,Aperto
+17,253,14.706,Piazza del Plebiscito 1,Napoli,,,AG127,"Corso Umberto I, 156",Caivano,,WINDOWS,Aperto
+17,156,15.773,Piazza del Plebiscito 1,Napoli,,FR14B35,AG127,Via Camillo Benso Cavuour 5,Aversa,CE,WINDOWS,Aperto
+17,111,15.788,Piazza del Plebiscito 1,Napoli,,,AG527,Via Monsignor Gennaro Verolino 19,ACERRA,,WINDOWS,Aperto
+17,228,20.183,Piazza del Plebiscito 1,Napoli,,,AG164,"Piazza Pace, 21",Boscoreale,,WINDOWS,Aperto
+17,160,24.75,Piazza del Plebiscito 1,Napoli,,FR14013,AG164,"VIA PIETRO COLLETTA, 18",Maddaloni,CE,ESE,Aperto
+17,197,25.063,Piazza del Plebiscito 1,Napoli,,FR14A16,AG127,Viale Europa 2A/2B,Castellammare di Stabia,,ESE,Aperto
+17,193,25.959,Piazza del Plebiscito 1,Napoli,,FR14460,AG127,C.so Italia 108,Sant'Agnello,,ESE,Aperto
+17,164,26.533,Piazza del Plebiscito 1,Napoli,,FR14961,AG164,Viale Abramo Lincoln 83,Caserta,CE,ESE,Aperto
+17,168,26.647,Piazza del Plebiscito 1,Napoli,,FR12B96,AG127,Via Circumvallazione 3 - 5,NOLA,,WINDOWS,Aperto
+17,162,26.983,Piazza del Plebiscito 1,Napoli,,FR14761,AG164,Viale Kennedy 75,Santa Maria Capua Vetere,CE,ESE,Aperto
+17,255,34.576,Piazza del Plebiscito 1,Napoli,,,AG127,via Giacomo Canale n.11,NOCERA INFERIORE,SA,WINDOWS,Aperto
+17,110,39.126,Piazza del Plebiscito 1,Napoli,,,AG527,Via Vittorio Veneto 49,PIGNATARO MAGGIORE,CE,WINDOWS,Aperto
+17,245,45.413,Piazza del Plebiscito 1,Napoli,,,AG164,"Via Ruggiero Da Torrecuso, 4",Torrecuso,BN,WINDOWS,Aperto
+17,149,46.257,Piazza del Plebiscito 1,Napoli,,,AG164,Corso Europa 162,Avellino,AV,WINDOWS,Aperto
+17,159,48.118,Piazza del Plebiscito 1,Napoli,,,AG164,Via Torrione 59,Salerno,SA,WINDOWS,Aperto
+18,87,10.001,Piazza San Marco 1,Venezia,VE,FR04809,AG707,Riviera XX Settembre 50/52 angolo via N. Sauro 19,Mestre,VE,ESE,Aperto
+18,61,25.222,Piazza San Marco 1,Venezia,VE,FR04810,AG707,Via Roma Destra 77,Jesolo,VE,ESE,Aperto
+18,206,26.569,Piazza San Marco 1,Venezia,VE,FR04820,AG127,Viale Mediterraneo 534/536,Chioggia,VE,ESE,Aperto
+18,70,26.591,Piazza San Marco 1,Venezia,VE,,AG613,C.so del Popolo 67,Treviso,TV,FLAGSHIP,Aperto
+18,91,26.988,Piazza San Marco 1,Venezia,VE,FR04996,AG707,Via Vittorio Emanuele 61,Quinto di Treviso,TV,ESE,Aperto
+18,71,36.048,Piazza San Marco 1,Venezia,VE,,AG615,C.so Garibaldi 9,Padova,PD,FLAGSHIP,Aperto
+18,88,44.517,Piazza San Marco 1,Venezia,VE,FR04852,AG707,Via Montegrappa 23,Montebelluna,TV,ESE,Aperto
+18,117,48.123,Piazza San Marco 1,Venezia,VE,,AG351,Via Angeli 23,Adria,RO,WINDOWS,Aperto
+19,45,0.0,Piazza della Libertà 1,Firenze,FI,,AG352,Via Borgognissanti 103,Firenze,FI,WINDOWS,Aperto
+19,27,0.025,Piazza della Libertà 1,Firenze,FI,FR09008,AG349,Via C. Maccari 117/119,Firenze,FI,ESE,Aperto
+19,67,2.166,Piazza della Libertà 1,Firenze,FI,FR09864,AG267,Via Aretina 5A/R,Firenze,FI,ESE,Aperto
+19,47,3.7,Piazza della Libertà 1,Firenze,FI,FR09012,AG352,Via Benedetto Dei 78/80,Firenze,FI,ESE,Aperto
+19,93,5.524,Piazza della Libertà 1,Firenze,FI,FR09039,AG351,Via  Roma 171,Bagno a Ripoli,FI,ESE,Aperto
+19,98,12.439,Piazza della Libertà 1,Firenze,FI,,AG660,VIA SAN QUIRICO 165,CAMPI BISENZIO,FI,MALL,Aperto
+19,158,18.705,Piazza della Libertà 1,Firenze,FI,,AG349,Via Strozzi 91 B,PRATO,PO,WINDOWS,Aperto
+19,46,25.807,Piazza della Libertà 1,Firenze,FI,FR09020,AG352,Via Chiarugi 16/18,Empoli,FI,ESE,Aperto
+19,104,27.39,Piazza della Libertà 1,Firenze,FI,,AG660,VIA RAFFAELLO SANZIO 199,EMPOLI,FI,MALL,Aperto
+19,100,35.036,Piazza della Libertà 1,Firenze,FI,FR09040,AG351,Viale Adua 389/b,Pistoia,PT,ESE,Aperto
+19,99,38.144,Piazza della Libertà 1,Firenze,FI,FR09038,AG351,Via Empolese 65,Pieve a Nievole,PT,ESE,Aperto
+19,173,40.563,Piazza della Libertà 1,Firenze,FI,,AG660,VIA BISCOLLA 48,MASSA COZZILE,PT,MALL,Aperto
+20,242,6.193,Via Venti Settembre 10,Bari,BA,FR16C43,AGA78,Piazza Umberto 7,Bitritto,BA,ESE,Aperto
+20,107,19.626,Via Venti Settembre 10,Bari,BA,FR16006,AG340,Piazza Aldo Moro 7,Molfetta,BA,ESE,Aperto
+20,241,25.998,Via Venti Settembre 10,Bari,BA,FR16C43,AGA78,Via Santa Chiara 1 angolo Corso Umberto 56,Mola di Bari,BA,ESE,Aperto
+20,108,31.278,Via Venti Settembre 10,Bari,BA,FR16763,AG340,Viale Armando Diaz 31,Corato,BA,ESE,Aperto
+20,105,42.43,Via Venti Settembre 10,Bari,BA,FR16002,AG340,Via Bisceglie 8,Andria,BT,ESE,Aperto
+20,243,46.17,Via Venti Settembre 10,Bari,BA,FR16C41,AGA78,Via Cialdini 17,Monopoli,BA,ESE,Aperto
+20,191,48.189,Via Venti Settembre 10,Bari,BA,FR17859,AG127,Via Enrico Mattei 16,Matera,MT,ESE,Aperto
+20,106,49.219,Via Venti Settembre 10,Bari,BA,FR16014,AG340,Via Torino 22/24,Barletta,BT,ESE,Aperto
